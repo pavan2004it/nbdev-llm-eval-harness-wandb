@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-llm-eval-harness-wandb"
+  site-url: "https://pavan2004it.github.io/nbdev-llm-eval-harness-wandb"
+  description: "public repo hosting sample notebook for lm-eval-harness integration with wandb"
+  repo-branch: main
+  repo-url: "https://github.com/pavan2004it/nbdev-llm-eval-harness-wandb"
